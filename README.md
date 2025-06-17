@@ -18,3 +18,4 @@ To visualize results and gain further insights, various plots are included. Sent
 
 OUTPUT: 
 [Screenshot 2025-06-17 203230.pdf](https://github.com/user-attachments/files/20778808/Screenshot.2025-06-17.203230.pdf)
+https://github.com/user-attachments/assets/92049998-efd9-4740-aec6-01b47641980f
