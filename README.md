@@ -1,14 +1,6 @@
-COMPANY NAME : CODETECH IT SOLUTIONS
-
 NAME : MOGANA HARINI U
 
-INTERN ID : CT04DF29
-
 DOMAIN : DATA ANALYTICS
-
-DURATION : 4 WEEKS
-
-MENTOR : NEELA SANTHOSH
 
 DESCRIPTION OF MY TASK 4 : Task 4 focuses on building a complete sentiment analysis pipeline using Python by integrating natural language processing (NLP) techniques with machine learning. The task begins with loading and exploring a dataset that contains text entries such as tweets or reviews, along with their corresponding sentiment labels. An initial exploration of the data helps identify patterns, missing values, and class distribution, which is important for understanding the structure and balance of the dataset. The next step involves comprehensive text preprocessing to clean and normalize the data. This includes converting all text to lowercase, removing URLs and punctuation, eliminating common stopwords using NLTK, and lemmatizing words using WordNetLemmatizer to reduce them to their base forms. These steps are essential for reducing noise and improving model accuracy.
 
